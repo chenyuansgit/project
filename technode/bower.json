@@ -1,0 +1,23 @@
+{
+  "name": "technode",
+  "description": "use of angularjs and socketio",
+  "main": "app.js",
+  "authors": [
+    "chenyuansgit <chenyuan_git@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chenyuansgit/project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}

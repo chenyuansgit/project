@@ -1,0 +1,16 @@
+{
+  "name": "technode",
+  "version": "1.0.0",
+  "description": "use of angularjs and socketio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.2",
+    "socket.io": "^1.4.8"
+  }
+}
