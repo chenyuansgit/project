@@ -1,0 +1,187 @@
+{
+  "city": {
+    "id": 1816670,
+    "name": "Beijing",
+    "coord": {
+      "lon": 116.397232,
+      "lat": 39.907501
+    },
+    "country": "CN",
+    "population": 0
+  },
+  "cod": "200",
+  "message": 0.0639,
+  "cnt": 7,
+  "list": [
+    {
+      "dt": 1474171200,
+      "temp": {
+        "day": 291.19,
+        "min": 281.88,
+        "max": 292.15,
+        "night": 281.88,
+        "eve": 288.47,
+        "morn": 292.15
+      },
+      "pressure": 955.77,
+      "humidity": 100,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "中雨",
+          "icon": "10d"
+        }
+      ],
+      "speed": 1.17,
+      "deg": 104,
+      "clouds": 100,
+      "rain": 7.89
+    },
+    {
+      "dt": 1474257600,
+      "temp": {
+        "day": 289.61,
+        "min": 279.96,
+        "max": 291.72,
+        "night": 279.96,
+        "eve": 290.99,
+        "morn": 283.37
+      },
+      "pressure": 958.46,
+      "humidity": 71,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "小雨",
+          "icon": "10d"
+        }
+      ],
+      "speed": 1.31,
+      "deg": 20,
+      "clouds": 20
+    },
+    {
+      "dt": 1474344000,
+      "temp": {
+        "day": 292.22,
+        "min": 278.83,
+        "max": 293.8,
+        "night": 280.63,
+        "eve": 292.57,
+        "morn": 278.83
+      },
+      "pressure": 957.94,
+      "humidity": 50,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "晴",
+          "icon": "01d"
+        }
+      ],
+      "speed": 1.18,
+      "deg": 130,
+      "clouds": 0
+    },
+    {
+      "dt": 1474430400,
+      "temp": {
+        "day": 291.34,
+        "min": 280.33,
+        "max": 291.34,
+        "night": 280.33,
+        "eve": 285.1,
+        "morn": 285.48
+      },
+      "pressure": 978.21,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "小雨",
+          "icon": "10d"
+        }
+      ],
+      "speed": 1.8,
+      "deg": 175,
+      "clouds": 81,
+      "rain": 0.33
+    },
+    {
+      "dt": 1474516800,
+      "temp": {
+        "day": 296.97,
+        "min": 284.18,
+        "max": 296.97,
+        "night": 284.18,
+        "eve": 289.51,
+        "morn": 285.23
+      },
+      "pressure": 971.71,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "小雨",
+          "icon": "10d"
+        }
+      ],
+      "speed": 1.44,
+      "deg": 201,
+      "clouds": 0
+    },
+    {
+      "dt": 1474603200,
+      "temp": {
+        "day": 300.87,
+        "min": 289.19,
+        "max": 300.87,
+        "night": 289.19,
+        "eve": 292.48,
+        "morn": 290.03
+      },
+      "pressure": 971.17,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "晴",
+          "icon": "01d"
+        }
+      ],
+      "speed": 2.48,
+      "deg": 212,
+      "clouds": 1
+    },
+    {
+      "dt": 1474689600,
+      "temp": {
+        "day": 300.05,
+        "min": 289.87,
+        "max": 300.05,
+        "night": 289.87,
+        "eve": 294.56,
+        "morn": 292.49
+      },
+      "pressure": 969.34,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "晴",
+          "icon": "01d"
+        }
+      ],
+      "speed": 2.3,
+      "deg": 180,
+      "clouds": 24
+    }
+  ]
+}

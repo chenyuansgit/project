@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "查看我的IP",
+  "version": "1.0",
+  "description": "查看我的电脑当前的公网IP",
+  "icons": {
+    "16": "images/icons16.png",
+    "48": "images/icons48.png",
+    "128": "images/icons128.png"
+  },
+  "browser_action": {
+    "default_icon" : {
+      "19": "images/icons19.png",
+      "38": "images/icons38.png"
+    },
+    "default_title": "查看我的公网IP",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://sneezryworks.sinaapp.com/ip.php"
+  ]
+}
