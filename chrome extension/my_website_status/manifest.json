@@ -20,6 +20,26 @@
     ]
   },
   "permissions": [
-    "http://www.google.cn/"
-  ]
+    "http://www.google.cn/",
+    "contextMenus", //设置菜单项权限
+    "notifications", // 桌面提醒功能
+    "bookmarks", //书签
+    "cookies", // cookie
+    "<all_urls>",
+    "history", // 历史记录
+    "management", //管理扩展与应用
+    "tabs", // 标签
+    "activeTab",
+    "webRequest", // 重定向
+    "webRequestBlocking",
+    "<all_urls>",
+    "proxy", // 代理
+    "system.cpu", // 系统信息
+    "system.memory",
+    "system.storage"
+  ],
+  "web_accessible_resources": [
+    "icon48.png"
+  ],
+  "omnibox": { "keyword" : "node" } // 地址栏默认建议
 }

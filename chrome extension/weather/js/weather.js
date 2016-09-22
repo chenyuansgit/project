@@ -26,8 +26,13 @@ function showWeather(result) {
     document.getElementById('weather').innerHTML = table;
 }
 
+// 设置徽章
+//chrome.browserAction.setBadgeBackgroundColor({color: '#0000FF'});
+//chrome.browserAction.setBadgeText({text: 'Dog'});
+
 var city = localStorage.city;
 city = city?city:'beijing';
 // 注册账号,获取appid
 var url = 'http://api.openweathermap.org/data/2.5/forecast/daily?q='+city+',china&lang=zh_cn&appid=f71cfb745cf5b949506a5b2c8e9183e5';
 httpRequest(url, showWeather);
+
